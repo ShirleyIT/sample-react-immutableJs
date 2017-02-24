@@ -1,5 +1,5 @@
 # Use Immutable.js in React Component
-Optimizing Performance of the React Component
+Optimizing Performance of the React Component using [Immutable.js](https://github.com/ErickWang812/sample-react-immutableJs.git)
 
 ### What's in it?
 
