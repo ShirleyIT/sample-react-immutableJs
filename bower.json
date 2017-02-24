@@ -1,0 +1,17 @@
+{
+  "name": "React tree",
+  "version": "0.0.1",
+  "description": "React tree dependencies",
+  "license": "MIT",
+  "devDependencies": {
+    "jquery": "1.11.2",
+    "fontawesome": "~4.3.0",
+    "bootstrap": "~3.3.4"
+  },
+  "resolutions": {
+    "jquery": "~1.11.2"
+  },
+  "dependencies": {
+    "jquery": "1.11.2"
+  }
+}
