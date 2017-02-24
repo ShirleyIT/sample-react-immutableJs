@@ -1,5 +1,5 @@
-# Sample dev project
-Dev project
+# Use Immutable.js in React Component
+Optimizing Performance of the React Component
 
 ### What's in it?
 
@@ -66,6 +66,9 @@ npm run lint
 ### Notes on importing css styles
 * styles having /src/styles in their absolute path are considered part of the application and exported as local css modules.
 * other styles are considered global styles used by many components and are included in the css bundle directly.
+
+### Snapshot
+![Alt text](public/images/snapshot-0.png?raw=true "")
 
 ### Contribute
 Please contribute to the project if you know how to make it better, including this README :)
