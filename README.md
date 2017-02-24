@@ -5,7 +5,6 @@ Optimizing Performance of the React Component
 
 * Simple src/app.jsx and src/styles/style.scss (local module scss).
 * Webpack configuration for development (with hot reloading) and production (with minification).
-* Webpack dll configuration for development to pack common modules.
 * CSS module loading, so you can include all of your css style in app.jsx by 
 ```import './path/to.css';```.
 * Both js(x) and css hot loaded during development.
