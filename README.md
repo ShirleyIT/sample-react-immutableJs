@@ -42,12 +42,6 @@ npm run dev
 
 Open the web browser to `http://localhost:8888/`
 
-### To build the production package
-
-```
-npm run build
-```
-
 ### Eslint
 There is a .eslintrc config for eslint ready with React plugin.
 To use it, you need to install additional dependencies though:
