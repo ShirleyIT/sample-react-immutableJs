@@ -1,17 +1,16 @@
 {
-  "name": "React tree",
+  "name": "Sample",
   "version": "0.0.1",
-  "description": "React tree dependencies",
+  "description": "Build React component with immutable.js in Fluxible",
   "license": "MIT",
   "devDependencies": {
-    "jquery": "1.11.2",
-    "fontawesome": "~4.3.0",
-    "bootstrap": "~3.3.4"
   },
   "resolutions": {
     "jquery": "~1.11.2"
   },
   "dependencies": {
-    "jquery": "1.11.2"
+    "jquery": "1.11.2",
+    "fontawesome": "~4.3.0",
+    "bootstrap": "~3.3.4"
   }
 }
